@@ -1,10 +1,29 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://oussemacherif.io)
 <h1 align="center">Hi 👋, I'm Oussema Cherif</h1>
 
-<h3 align="center">A Full Stack JS Developer</h3>
 <h5 >
 I'm a Full Stack JavaScript Developer skilled in crafting seamless web applications with a strong focus on effective problem-solving.
 </h5>
+
+```yaml
+     _______        ___ ___    ______   ___                     ___ __
+    /  ____/       /  //  /   / ____/__/  /_                   /  // /
+   /  /__ ___ ___ /  //  /   ( (    /_   __/  ____    ______  /  // /
+  /  ___//  //  //  //  /     \ \    /  /  __/__  \  /  ___/ /     /
+ /  /   /  //  //  //  /   ____) )  /  /  /  ___  / /  /___ /  /\  \
+/__/    \_____//__//__/    \_____/ /__/  /_______/  \_____//__/  \__\
+
+     ______                              ___
+    /  __  \                            /  /
+   /  /  \  \ _____ ___    ___ _____   /  /______   ______   _____   ______
+  /  /   /  //  __ \\  \  /  //  __ \ /  //  __  \ /  __  \ /  __ \ /  ___/
+ /  /___/  //  ____/ \  \/  //  ____//  //  /_/  //  /_/  //  ____//  /
+/_________/ \_____/   \____/ \_____//__/ \______//  _____/ \_____//__/
+                                                /  /
+                                               /  /
+                                              /__/
+
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemacherif&label=Profile%20views&color=0e75b6&style=flat" alt="oussemacherif" /> </p>
 
