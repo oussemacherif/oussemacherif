@@ -30,10 +30,10 @@ I'm a Full Stack JavaScript Developer skilled in crafting seamless web applicati
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussemacherif" alt="oussemacherif" /></a> </p>
 
 - 💬 Ask me about **React , Next js 14 and Sequelize**
-- 🚀  I'm currently working on [Nour2 University Housing](https://github.com/NOUR-2-University-housing/Nour2)
+- 🚀  I'm currently working on [Massilya E-commerce website]
 - ✉️  You can contact me at [ousseemacherif@gmail.com](mailto:ousseemacherif@gmail.com)
 
-- 📄 Know about my experiences :**https://www.canva.com/design/DAF47MlV0ts/-Uy-5XD_iA8yjgnGHtKOrQ/edit**
+- 📄 Know about my experiences :**https://oussemacherif.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
